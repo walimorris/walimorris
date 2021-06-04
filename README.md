@@ -1,6 +1,6 @@
 ### System.out.println("Hello World") 👋
 
-![Custom badge](https://img.shields.io/endpoint?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwali-m%2F)
+![Custom badge](https://img.shields.io/badge/USA-Veteran-critical)
 
 
 <!--

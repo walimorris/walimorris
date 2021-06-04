@@ -13,7 +13,7 @@ many open source projects as I can - focusing on web based applications using no
 ![Java](https://img.shields.io/badge/BE-Java-critical?logo=java) ![Python](https://img.shields.io/badge/BE-Python-blue?logo=python) ![JavaScript](https://img.shields.io/badge/FE-JavaScript-yellow?logo=javascript) ![html](https://img.shields.io/badge/FE-HTML-red?logo=HTML5) ![CSS](https://img.shields.io/badge/FE-CSS-blue?logo=CSS3) 
 
 # Skills/Tools Learning
-![Express](https://img.shields.io/badge/-ExpressJS-%23000000?logo=express) ![Spring](https://img.shields.io/badge/-Spring-green?logo=spring) ![Git](https://img.shields.io/badge/-Git-critical?logo=git) ![Salesforce](https://img.shields.io/badge/-Salesforce-9cf?logo=salesforce)
+![Express](https://img.shields.io/badge/-ExpressJS-%23000000?logo=express) ![Spring](https://img.shields.io/badge/-Spring-green?logo=spring) ![Git](https://img.shields.io/badge/-Git-critical?logo=git) ![Salesforce](https://img.shields.io/badge/-Salesforce-9cf?logo=salesforce) ![Postman](https://img.shields.io/badge/-Postman-lightgray?logo=postman) ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
 
 
 

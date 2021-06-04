@@ -1,5 +1,6 @@
 ### System.out.println("Hello World") 👋
-?style=social&logo=appveyor
+
+https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 
 
 <!--

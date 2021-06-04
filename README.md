@@ -10,7 +10,7 @@ and nature, one of my favorite destinations being Lake Cushman. Going forward, m
 many open source projects as I can - focusing on web based applications using nodejs, expressjs, and spring. 
 
 # Languages
-![Java](https://img.shields.io/badge/BE-Java-informational)  ![JavaScript](https://img.shields.io/badge/FE-JavaScript-critical) ![html](https://img.shields.io/badge/FE-HTML-ff69b4)
+![Java](https://img.shields.io/badge/BE-Java-informational) ![Python](https://img.shields.io/badge/BE-Python-pcf) ![JavaScript](https://img.shields.io/badge/FE-JavaScript-critical) ![html](https://img.shields.io/badge/FE-HTML-ff69b4) ![CSS](https://img.shields.io/badge/FE-CSS-important) 
 
 
 <!--

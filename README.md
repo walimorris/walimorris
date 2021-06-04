@@ -1,6 +1,6 @@
 ### System.out.println("Hello World") 👋
 
-https://img.shields.io/endpoint?url=walimorris.dev&style?style=social&logo=appveyor
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-lightgrey?style=for-the-badge&logo=subaru)
 
 
 <!--

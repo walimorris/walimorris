@@ -3,6 +3,11 @@
 ![Custom badge](https://img.shields.io/badge/USA-Veteran-critical) ![Custom badge](https://img.shields.io/badge/Student-Software%20Dev-informational)
 
 # About 
+After 8 years as a Marine, I decided to pack my green duffle bag and throw it at technologies door(gently ofcourse 😄).
+Focused and excited Software Developer by day, determined and enthusiatic student at night. I have backend development
+experience with Adobe Experience Manager and Apache Sling framework. On my down time I enjoy spending time with family
+and nature, one of my favorite destinations being Lake Cushman. Going forward, my goal is to begin contributing to as 
+many open source projects as I can - websites using nodejs, expressjs, and spring. 
 
 
 

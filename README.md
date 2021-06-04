@@ -1,6 +1,6 @@
 ### System.out.println("Hello World") 👋
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-lightgrey?style=for-the-badge&logo=subaru)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-lightgrey?endpoint?url=walimorris.dev&style=for-the-badge&logo=subaru)
 
 
 <!--

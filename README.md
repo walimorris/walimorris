@@ -2,6 +2,9 @@
 
 ![Custom badge](https://img.shields.io/badge/USA-Veteran-critical) ![Custom badge](https://img.shields.io/badge/Student-Software%20Dev-informational)
 
+#About 
+
+
 
 <!--
 **walimorris/walimorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

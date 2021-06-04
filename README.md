@@ -1,6 +1,6 @@
 ### System.out.println("Hello World") 👋
 
-![Custom badge](https://img.shields.io/badge/USA-Veteran-critical) ![Custom badge](https://img.shields.io/badge/Student-Software#Development-informational)
+![Custom badge](https://img.shields.io/badge/USA-Veteran-critical) ![Custom badge](https://img.shields.io/badge/Student-Software%20Dev-informational)
 
 
 <!--

@@ -8,7 +8,7 @@ Focused and excited Software Developer by day, determined and enthusiatic studen
 experience with Adobe Experience Manager and Apache Sling framework. I'm currently studying to obtain Salesforce dev 
 and Salesforce Admin certifications. On my down time I enjoy spending time with family and nature, one of my favorite 
 destinations being Lake Cushman. Going forward, my goal is to begin contributing to as many open source projects as I 
-can - focusing on web based applications using nodejs, expressjs, and spring. 
+can - focusing on web based applications using nodejs, expressjs, and springboot. 
 
 # Languages
 ![Java](https://img.shields.io/badge/BE-Java-critical?logo=java) ![Python](https://img.shields.io/badge/BE-Python-blue?logo=python) ![JavaScript](https://img.shields.io/badge/FE-JavaScript-yellow?logo=javascript) ![html](https://img.shields.io/badge/FE-HTML-red?logo=HTML5) ![CSS](https://img.shields.io/badge/FE-CSS-blue?logo=CSS3) 

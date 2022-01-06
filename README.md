@@ -7,7 +7,7 @@
 
 # Skills/Tools Learning
 ![Express](https://img.shields.io/badge/-ExpressJS-%23000000?logo=express) ![Git](https://img.shields.io/badge/-Git-critical?logo=git) ![Postman](https://img.shields.io/badge/-Postman-lightgray?logo=postman) ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
-![JavaFX](https://img.shields.io/badge/-JavaFx-black?logo=javafx)
+![JavaFX](https://img.shields.io/badge/-JavaFX-black?logo=javafx)
 
 
 

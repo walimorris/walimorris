@@ -10,7 +10,8 @@
 ![JavaFX](https://img.shields.io/badge/-JavaFX-black?logo=javafx)
 
 ![AWS Certified Cloud Practitioner](https://user-images.githubusercontent.com/48896622/153732356-ab039283-65f3-4b5c-b208-49181e8bdace.png)
-[Check out digital badge here!](https://www.credly.com/badges/0cab1422-1508-4bef-8d19-ae519b646549/public_url)
+
+[Digital badge here!](https://www.credly.com/badges/0cab1422-1508-4bef-8d19-ae519b646549/public_url)
 
 
 <!--

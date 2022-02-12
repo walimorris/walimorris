@@ -9,6 +9,8 @@
 ![Express](https://img.shields.io/badge/-ExpressJS-%23000000?logo=express) ![Git](https://img.shields.io/badge/-Git-critical?logo=git) ![Postman](https://img.shields.io/badge/-Postman-lightgray?logo=postman) ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-black?logo=javafx)
 
+![AWS Certified Cloud Practitioner](https://www.credly.com/badges/0cab1422-1508-4bef-8d19-ae519b646549/public_url)
+
 
 
 <!--

@@ -10,7 +10,7 @@
 ![JavaFX](https://img.shields.io/badge/-JavaFX-black?logo=javafx)
 
 ![](https://user-images.githubusercontent.com/48896622/153732356-ab039283-65f3-4b5c-b208-49181e8bdace.png) 
-![](https://www.credly.com/badges/c76aa811-d5bf-49d1-9f31-8cc531718dc6/public_url)
+![AWS Certified Solutions Architect](https://www.credly.com/badges/c76aa811-d5bf-49d1-9f31-8cc531718dc6/public_url)
 
 
 <!--
